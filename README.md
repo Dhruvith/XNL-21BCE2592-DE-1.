@@ -7,9 +7,7 @@ Mya Gon Yaung is a men's traditional clothing retail shop that manually records 
 This project is used to find out whether having a real-time sales data analysis application will be a solution to solve the problems faced at Mya Gon Yaung.
 
 
-## Data Platform Architecture
 
-![Data Platform Architecture](Images/Real-Time%20Sales%20Data%20Analysis%20Application~2.png)
 ![image](https://github.com/user-attachments/assets/2e045846-fad4-48f8-b126-2dde89aa2ecb)
 
 

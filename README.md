@@ -32,8 +32,8 @@ The Kaggle dataset undergoes cleaning and column trimming to ensure data quality
 ![image](https://github.com/user-attachments/assets/0bbdb6cf-3e7a-45ca-b57a-4ae6308c02a3)
 
 
-- *Stock Quantity Data*:  
-  <img src="Images/stock_quantity.PNG" width="400">
+![image](https://github.com/user-attachments/assets/db16dfb4-607f-4b97-b66a-32ed3262da22)
+
 
 ### 3. Data Producer
 

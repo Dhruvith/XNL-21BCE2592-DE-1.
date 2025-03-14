@@ -10,6 +10,8 @@ This project is used to find out whether having a real-time sales data analysis 
 ## Data Platform Architecture
 
 ![Data Platform Architecture](Images/Real-Time%20Sales%20Data%20Analysis%20Application~2.png)
+![image](https://github.com/user-attachments/assets/2e045846-fad4-48f8-b126-2dde89aa2ecb)
+
 
 
 The Data Platform Architecture of the Real-Time Sales Data Analysis Application is designed to provide a streamlined and efficient process for handling sales data from its inception to real-time analytics. Customer purchase information is initially generated and transmitted through a Kafka producer, which then sends the data to a designated Kafka topic. Subsequently, an Apache Spark streaming application processes the data, extracting pertinent information and transforming it for further analysis. The processed data finds a reliable home in a PostgreSQL database, offering structured storage. 
